@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DzFromTumakov": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\s7470\\OneDrive\\Рабочий стол\\test.txt\""
+    }
+  }
+}
